@@ -1,0 +1,60 @@
+{ 
+  "tasks": 
+    {
+      "id": 0,
+      "guide": { 
+        "title": "데이터 분석", 
+        "content": "데이터 분석" 
+      },
+    
+      "labels": { 
+        "title": "라벨 선택", 
+        "content": "라벨을 선택하세요.",
+        "label": [
+          {
+            "title": "CLAIM",
+            "id": 999
+          },
+          {
+            "title": "REACT",
+            "id": 998
+          },
+          {
+            "title": "QUESTION",
+            "id": 997
+          },
+          {
+            "title": "ADVICE",
+            "id": 996
+          }
+        ]
+      },
+
+      "comunicate": [
+        {
+          "content": "hello",
+          "date"   : "오전 11:46:12",
+          "isTask" : false,
+          "id"     : 0
+        },
+        {
+          "content": "yeah",
+          "date"   : "오전 11:46:12",
+          "isTask" : true,
+          "id"     : 1
+        },
+        {
+          "content": "what r u doing",
+          "date"   : "오전 11:46:12",
+          "isTask" : false,
+          "id"     : 2
+        },
+        {
+          "content": "study",
+          "date"   : "오전 11:46:12",
+          "isTask" : true,
+          "id"     : 3
+        }
+      ]
+    }
+}
